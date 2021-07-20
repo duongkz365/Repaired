@@ -1,1 +1,1 @@
-android studio not install : how to fix >> open terminal->git bash ->enter command   flutter config --android-studio-dir=""
+Android studio not install : how to fix >> open terminal->git bash ->enter command   flutter config --android-studio-dir=""
