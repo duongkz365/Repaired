@@ -2,37 +2,44 @@
     "products": [
         {
             "id": 1,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
         {
             "id": 2,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
         {
             "id": 3,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
         {
             "id": 4,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
          {
             "id": 5,
-            "name": "Javascript"
+           "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
         {
             "id": 6,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         },
          {
             "id": 7,
-            "name": "Javascript"
+            "name": "Sổ tay mini hoạt hình dễ thương",
+            "img": "https://github.com/duongkz365/Repaired/blob/main/imgs/sp9.jpg"
             
         }
 
