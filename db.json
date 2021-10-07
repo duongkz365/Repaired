@@ -1,5 +1,5 @@
 {
-    "courses": [
+    "products": [
         {
             "id": 1,
             "name": "Javascript"
@@ -9,16 +9,38 @@
             "id": 2,
             "name": "Javascript"
             
-        },{
+        },
+        {
             "id": 3,
             "name": "Javascript"
             
-        },{
+        },
+        {
             "id": 4,
+            "name": "Javascript"
+            
+        },
+         {
+            "id": 5,
+            "name": "Javascript"
+            
+        },
+        {
+            "id": 6,
+            "name": "Javascript"
+            
+        },
+         {
+            "id": 7,
             "name": "Javascript"
             
         }
 
+    ],
+    "users": [
+        {
+            "mssv": 1234,
+        }
     ]
     
     
